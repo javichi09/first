@@ -31,14 +31,14 @@
 	},
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/express-generator:2": {}
-	},
-    
-	"portsAttributes": {
-		"3000": {
-			"label": "app",
-			"onAutoForward": "notify"
-		}
-	},
+	
+},
+	//"portsAttributes": {
+	//	"3000": {
+	//		"label": "app",
+	//		"onAutoForward": "notify"
+	//	}
+	
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [3000, 27017]
 

@@ -5,28 +5,28 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('delete-dwpcii:server');
+var debug = require('debug')('dwpcii:server');
 var http = require('http');
 
 /**
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '3001');
+var port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
 
 /**
  * Create HTTP server.
  */
 
-var server = http.createServer(app);
+var server = http.createServer(app);// (req, res)=>{...}
 
 /**
  * Listen on provided port, on all network interfaces.
  */
 
 server.listen(port);
-server.on('error', onError);
+server.on('error', onError); // callback
 server.on('listening', onListening);
 
 /**
@@ -86,5 +86,5 @@ function onListening() {
   var bind = typeof addr === 'string'
     ? 'pipe ' + addr
     : 'port ' + addr.port;
-  debug('Listening on ' + bind);
+  debug('📢 Listening on ' + bind);
 }

@@ -34,6 +34,28 @@ app.use('/users', usersRouter);
 //   res.json({mainDeveloper: "Ivan Rivalcoba"})
 // });
 
+//app.get('/about/tec', function(req, res, next) {
+  // Genera una imagen aleatoria del Instituto
+  //var tecImages = ['imagen1.jpg', 'imagen2.jpg', 'imagen3.jpg'];
+  //var randomImage = tecImages[Math.floor(Math.random() * tecImages.length)];
+
+  // Renderiza la página HTML
+  //res.render('tec_info', { image: randomImage });
+//});
+
+// Ruta "/about/api/tec" (respuesta JSON)
+//app.get('/about/api/tec', function(req, res, next) {
+   //var tecInfo = {
+       //name: 'Tec de Gustavo A Madero',
+       //description: 'algo',
+       //mission: '...',
+       //values: '',
+     //  image: 'imagen aleatoria del tec'
+   //};
+
+  // res.json(tecInfo);
+//});
+
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));

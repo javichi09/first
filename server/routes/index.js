@@ -8,7 +8,9 @@ function selecctionImagen(image){
 }
 
 //imagenes
-var image = ['../public/images/imagen1.jpg', '../public/images/imagen2.jpg', '../public/images/imagen3.jpg'];
+var image = ['https://www.gamadero.tecnm.mx/assets/files/main/img/fondoblancoitgam.png', 
+'https://www.gamadero.tecnm.mx/images/Anuncios/2023/oferta%20educativa%202023_6carreras%20cuadro.jpg', 
+'https://www.gamadero.tecnm.mx/ideologia/ideologia.png'];
 
 // GET /
 router.get('/', function(req, res, next) {

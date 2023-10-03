@@ -1,4 +1,4 @@
 // cargando los estilos
 import './styles/style.css'
-// Mensaje en la consola
-console.log("🎉 Estilos cargados correctamente 🎉");
+// import './styles/style-b.css'
+console.log('🎉 Estilos cargados correctamente 🎉');

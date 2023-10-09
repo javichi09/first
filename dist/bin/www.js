@@ -4,15 +4,26 @@
  * Module dependencies.
  */
 import http from 'http';
-//import app from '../app';
+import app from '../app';
 
-const app = require('../app');
 const debug = require('debug')('dwpcii:server');
-const http = require('http');
 
 /**
  * Get port from environment and store in Express.
  */
+
+function normalizePort(val) {
+  const port = parseInt(val, 10);
+  if (Number.isNaN(port)) {
+    // named pipe
+    return val;
+  }
+  if (port >= 0) {
+    // port number
+    return port;
+  }
+  return false;
+}
 
 const port = normalizePort(process.env.PORT || '3001');
 app.set('port', port);
@@ -28,25 +39,10 @@ const server = http.createServer(app); // (req, res)=>{...}
  */
 
 server.listen(port);
-server.on('error', onError); // callback
-server.on('listening', onListening);
 
 /**
  * Normalize a port into a number, string, or false.
  */
-
-function normalizePort(val) {
-  const port = parseInt(val, 10);
-  if (isNaN(port)) {
-    // named pipe
-    return val;
-  }
-  if (port >= 0) {
-    // port number
-    return port;
-  }
-  return false;
-}
 
 /**
  * Event listener for HTTP server "error" event.
@@ -82,3 +78,6 @@ function onListening() {
   const bind = typeof addr === 'string' ? `pipe ${addr}` : `port ${addr.port}`;
   debug(`📢 Listening on ${bind}`);
 }
+
+server.on('error', onError); // callback
+server.on('listening', onListening);

@@ -1,4 +1,4 @@
-// cargando los estilos
+/* eslint-disable no-console */
 import './styles/style.css';
-// import './styles/style-b.css'
+
 console.log('🎉 Estilos cargados correctamente 🎉');

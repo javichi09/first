@@ -4,11 +4,15 @@
   "plugins": ["prettier"],
   "rules":{
     "no-console":"off",
-    "prettier/prettier": ["error"]
+    "prettier/prettier": ["error"],
+    "comma-dangle": 0
   },
   "env": {
     "es6": true,
     "node": true,
     "browser": true
+  },
+  "settings": {
+    "import/resolver" : { "babel-module" : {}}
   }
 }

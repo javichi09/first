@@ -5,6 +5,9 @@ import path from 'path';
 
 // Se desestructuran funciones para realizar la
 // composición del formato
+
+// eslint-disable-next-line prettier/prettier
+
 const { combine, timestamp, label, printf, colorize } = format;
 
 // Creando variable del directorio raiz
@@ -36,8 +39,8 @@ const myConsoleFormat = combine(
   timestamp({ format: 'DD-MM-YYYY HH:mm:ss' }),
   // Función de impreson
   printf(
-    (info) =>
-      `${info.level}: ${info.label}: ${info.timestamp}: ${info.message}`,
+    (info) => `
+    ${info.level}: ${info.label}: ${info.timestamp}: ${info.message}`,
   ),
 );
 
@@ -51,7 +54,7 @@ const myFileFormat = combine(
   format.json(),
 );
 
-// Creando el objeto de opciones
+// Creando el objeto de opciones para cada transporte
 const options = {
   infoFile: {
     level: 'info',
@@ -98,8 +101,6 @@ const logger = winston.createLogger({
 /*
 Por defecto Morgan envía la salida exclusivamente a la consola, algo asi:
  Morgan --->[logs]---> consola
-Lo que haremos a continuación sera definir una función llamada "write" que será parte de un objeto que se asignará a la propiedad stream del logger, esta función será capaz de recibir la salida que genera Morgan "message" y redirigirla a winston como informativa
-Usaremos el nivel informativo para que tanto el transportador archivo como el de consola tomen el 
 Morgan --->[logs]---> Winston ---> [Logs a transportes informativos]
 */
 

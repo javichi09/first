@@ -14,5 +14,8 @@
   },
   "settings": {
     "import/resolver" : { "babel-module" : {}}
+  },
+  "globals": {
+    "__rootdir": "readonly"
   }
 }

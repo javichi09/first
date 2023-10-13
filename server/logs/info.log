@@ -1,0 +1,27 @@
+{"level":"info","message":"The server is created from the express instance","timestamp":"13-10-2023 06:01:20"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"13-10-2023 06:01:20"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"13-10-2023 06:06:13"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"13-10-2023 06:06:13"}
+{"level":"info","message":"GET / 200 28.816 ms - 254\n","timestamp":"13-10-2023 06:06:18"}
+{"level":"info","message":"404 Pagina no encontrada GET /favicon.ico","timestamp":"13-10-2023 06:06:19"}
+{"level":"info","message":"GET /favicon.ico 404 3.841 ms - 2089\n","timestamp":"13-10-2023 06:06:19"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"13-10-2023 06:32:50"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"13-10-2023 06:32:50"}
+{"level":"info","message":"GET / 200 28.353 ms - 254\n","timestamp":"13-10-2023 06:32:54"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"13-10-2023 06:37:35"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"13-10-2023 06:37:35"}
+{"level":"info","message":"GET / 200 92.400 ms - 665\n","timestamp":"13-10-2023 06:37:38"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"13-10-2023 06:40:24"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"13-10-2023 06:40:24"}
+{"level":"info","message":"GET / 200 70.689 ms - 290\n","timestamp":"13-10-2023 06:40:27"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.ae4dbe10965db9ab135f.hot-update.json","timestamp":"13-10-2023 06:40:27"}
+{"level":"info","message":"GET /main.ae4dbe10965db9ab135f.hot-update.json 404 4.951 ms - 2089\n","timestamp":"13-10-2023 06:40:27"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.ae4dbe10965db9ab135f.hot-update.json","timestamp":"13-10-2023 06:40:27"}
+{"level":"info","message":"GET /main.ae4dbe10965db9ab135f.hot-update.json 404 2.696 ms - 2089\n","timestamp":"13-10-2023 06:40:27"}
+{"level":"info","message":"GET / 304 9.449 ms - -\n","timestamp":"13-10-2023 06:40:27"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"13-10-2023 06:41:38"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"13-10-2023 06:41:38"}
+{"level":"info","message":"GET / 304 27.354 ms - -\n","timestamp":"13-10-2023 06:41:42"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"13-10-2023 06:42:37"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"13-10-2023 06:42:37"}
+{"level":"info","message":"GET / 200 32.781 ms - 665\n","timestamp":"13-10-2023 06:42:40"}

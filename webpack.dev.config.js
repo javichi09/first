@@ -70,5 +70,5 @@ plugins: [
   filename: 'styles/app.css'
 }),
 new ESlintPlugin()
-]
-}
+],
+};

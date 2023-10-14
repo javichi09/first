@@ -1,14 +1,12 @@
 // Importando el core de winston
-// y la función format de winston
+// y la función format de winston>
+// eslint-disable-next-line import/no-extraneous-dependencies
 import winston, { format } from 'winston';
 import path from 'path';
 
 // Se desestructuran funciones para realizar la
 // composición del formato
-
-// eslint-disable-next-line prettier/prettier
-
-// composición del formato
+// eslint-disable-next-line object-curly-newline
 const { combine, timestamp, label, printf, colorize } = format;
 
 // Creando variable del directorio raiz
@@ -40,8 +38,9 @@ const myConsoleFormat = combine(
   timestamp({ format: 'DD-MM-YYYY HH:mm:ss' }),
   // Función de impreson
   printf(
-    (info) => `
-    ${info.level}: ${info.label}: ${info.timestamp}: ${info.message}`,
+    (info) =>
+      // eslint-disable-next-line implicit-arrow-linebreak
+      `${info.level}: ${info.label}: ${info.timestamp}: ${info.message}`,
   ),
 );
 
@@ -98,12 +97,6 @@ const logger = winston.createLogger({
   ],
   exitOnError: false, // No finaliza en excepciones no manejadas
 });
-
-/*
-Por defecto Morgan envía la salida exclusivamente a la consola, algo asi:
- Morgan --->[logs]---> consola
-Morgan --->[logs]---> Winston ---> [Logs a transportes informativos]
-*/
 
 // Estableciendo un flujo de entrada que servira
 // para interceptar el log de morgan

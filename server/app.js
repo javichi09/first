@@ -13,6 +13,10 @@ import indexRouter from './routes/index';
 import usersRouter from './routes/users';
 // Importing webpack configuration
 import webpackConfig from '../webpack.dev.config';
+
+// Importing template-engine
+import configTemplateEngine from './config/templateEngine';
+
 // Impornting winston logger
 import log from './config/winston';
 // Creando variable del directorio raiz
@@ -54,9 +58,8 @@ if (nodeEnviroment === 'development') {
   console.log('🏭 Ejecutando en modo producción 🏭');
 }
 
-// Configurando el motor de plantillas
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'hbs');
+// Configuring the template engine
+configTemplateEngine(app);
 
 // Se establecen los middlewares
 app.use(morgan('dev', { stream: log.stream }));

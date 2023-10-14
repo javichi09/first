@@ -8,6 +8,7 @@ import path from 'path';
 
 // eslint-disable-next-line prettier/prettier
 
+// composición del formato
 const { combine, timestamp, label, printf, colorize } = format;
 
 // Creando variable del directorio raiz

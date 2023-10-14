@@ -30,3 +30,8 @@
 {"level":"info","message":"GET / 304 107.567 ms - -\n","timestamp":"13-10-2023 17:49:02"}
 {"level":"info","message":"404 Pagina no encontrada GET /favicon.ico","timestamp":"13-10-2023 17:49:04"}
 {"level":"info","message":"GET /favicon.ico 404 3.762 ms - 2089\n","timestamp":"13-10-2023 17:49:04"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"13-10-2023 17:53:14"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"13-10-2023 17:53:14"}
+{"level":"info","message":"GET / 304 31.149 ms - -\n","timestamp":"13-10-2023 17:53:19"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"14-10-2023 05:58:44"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"14-10-2023 05:58:44"}

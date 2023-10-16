@@ -149,3 +149,94 @@
 {"level":"info","message":"The server is created from the express instance","timestamp":"14-10-2023 23:25:26"}
 {"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"14-10-2023 23:25:26"}
 {"level":"info","message":"GET / 304 14.784 ms - -\n","timestamp":"14-10-2023 23:25:34"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 03:14:24"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 03:14:24"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 04:45:02"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 04:45:02"}
+{"level":"info","message":"GET / 304 47.783 ms - -\n","timestamp":"16-10-2023 04:45:09"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 04:54:57"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 04:54:57"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.36bbcfce4bb8ae7ee62d.hot-update.json","timestamp":"16-10-2023 04:55:00"}
+{"level":"info","message":"GET /main.36bbcfce4bb8ae7ee62d.hot-update.json 404 4.942 ms - 2092\n","timestamp":"16-10-2023 04:55:00"}
+{"level":"info","message":"GET / 200 18.840 ms - 1201\n","timestamp":"16-10-2023 04:55:00"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.36bbcfce4bb8ae7ee62d.hot-update.json","timestamp":"16-10-2023 04:55:01"}
+{"level":"info","message":"GET /main.36bbcfce4bb8ae7ee62d.hot-update.json 404 1.654 ms - 2092\n","timestamp":"16-10-2023 04:55:01"}
+{"level":"info","message":"GET / 304 3.585 ms - -\n","timestamp":"16-10-2023 04:55:02"}
+{"level":"info","message":"GET /favicon.png 304 0.932 ms - -\n","timestamp":"16-10-2023 04:55:04"}
+{"level":"info","message":"GET /favicon.png 304 0.383 ms - -\n","timestamp":"16-10-2023 04:55:07"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 04:56:27"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 04:56:28"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.fb233e6f95ef134daff3.hot-update.json","timestamp":"16-10-2023 04:56:32"}
+{"level":"info","message":"GET /main.fb233e6f95ef134daff3.hot-update.json 404 7.211 ms - 2092\n","timestamp":"16-10-2023 04:56:32"}
+{"level":"info","message":"GET / 304 24.208 ms - -\n","timestamp":"16-10-2023 04:56:32"}
+{"level":"info","message":"GET / 304 6.132 ms - -\n","timestamp":"16-10-2023 04:56:33"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.fb233e6f95ef134daff3.hot-update.json","timestamp":"16-10-2023 04:56:33"}
+{"level":"info","message":"GET /main.fb233e6f95ef134daff3.hot-update.json 404 1.632 ms - 2092\n","timestamp":"16-10-2023 04:56:33"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.fb233e6f95ef134daff3.hot-update.json","timestamp":"16-10-2023 04:56:33"}
+{"level":"info","message":"GET /main.fb233e6f95ef134daff3.hot-update.json 404 2.469 ms - 2092\n","timestamp":"16-10-2023 04:56:33"}
+{"level":"info","message":"GET / 304 3.618 ms - -\n","timestamp":"16-10-2023 04:56:33"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.fb233e6f95ef134daff3.hot-update.json","timestamp":"16-10-2023 04:56:34"}
+{"level":"info","message":"GET /main.fb233e6f95ef134daff3.hot-update.json 404 2.396 ms - 2092\n","timestamp":"16-10-2023 04:56:34"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.fb233e6f95ef134daff3.hot-update.json","timestamp":"16-10-2023 04:56:34"}
+{"level":"info","message":"GET /main.fb233e6f95ef134daff3.hot-update.json 404 1.925 ms - 2092\n","timestamp":"16-10-2023 04:56:34"}
+{"level":"info","message":"GET / 304 2.823 ms - -\n","timestamp":"16-10-2023 04:56:34"}
+{"level":"info","message":"GET / 200 8.512 ms - 1201\n","timestamp":"16-10-2023 04:56:42"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.fb233e6f95ef134daff3.hot-update.json","timestamp":"16-10-2023 04:56:42"}
+{"level":"info","message":"GET /main.fb233e6f95ef134daff3.hot-update.json 404 4.052 ms - 2092\n","timestamp":"16-10-2023 04:56:42"}
+{"level":"info","message":"GET /favicon.png 304 0.918 ms - -\n","timestamp":"16-10-2023 04:56:43"}
+{"level":"info","message":"GET /favicon.png 304 0.465 ms - -\n","timestamp":"16-10-2023 04:56:46"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 05:13:06"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 05:13:06"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.9cb1aa78fafe28bf4c40.hot-update.json","timestamp":"16-10-2023 05:13:09"}
+{"level":"info","message":"GET /main.9cb1aa78fafe28bf4c40.hot-update.json 404 8.054 ms - 2092\n","timestamp":"16-10-2023 05:13:09"}
+{"level":"info","message":"GET / 200 50.791 ms - 1573\n","timestamp":"16-10-2023 05:13:09"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.9cb1aa78fafe28bf4c40.hot-update.json","timestamp":"16-10-2023 05:13:09"}
+{"level":"info","message":"GET /main.9cb1aa78fafe28bf4c40.hot-update.json 404 2.826 ms - 2092\n","timestamp":"16-10-2023 05:13:09"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.9cb1aa78fafe28bf4c40.hot-update.json","timestamp":"16-10-2023 05:13:10"}
+{"level":"info","message":"GET /main.9cb1aa78fafe28bf4c40.hot-update.json 404 2.278 ms - 2092\n","timestamp":"16-10-2023 05:13:10"}
+{"level":"info","message":"GET / 304 30.199 ms - -\n","timestamp":"16-10-2023 05:13:10"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.9cb1aa78fafe28bf4c40.hot-update.json","timestamp":"16-10-2023 05:13:10"}
+{"level":"info","message":"GET /main.9cb1aa78fafe28bf4c40.hot-update.json 404 2.412 ms - 2092\n","timestamp":"16-10-2023 05:13:10"}
+{"level":"info","message":"GET / 304 11.518 ms - -\n","timestamp":"16-10-2023 05:13:10"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.9cb1aa78fafe28bf4c40.hot-update.json","timestamp":"16-10-2023 05:13:10"}
+{"level":"info","message":"GET /main.9cb1aa78fafe28bf4c40.hot-update.json 404 20.546 ms - 2092\n","timestamp":"16-10-2023 05:13:10"}
+{"level":"info","message":"GET / 304 3.414 ms - -\n","timestamp":"16-10-2023 05:13:13"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.9cb1aa78fafe28bf4c40.hot-update.json","timestamp":"16-10-2023 05:13:13"}
+{"level":"info","message":"GET /main.9cb1aa78fafe28bf4c40.hot-update.json 404 1.602 ms - 2092\n","timestamp":"16-10-2023 05:13:13"}
+{"level":"info","message":"GET /favicon.png 304 0.927 ms - -\n","timestamp":"16-10-2023 05:13:14"}
+{"level":"info","message":"GET /favicon.png 304 0.386 ms - -\n","timestamp":"16-10-2023 05:13:14"}
+{"level":"info","message":"GET /favicon.png 304 0.600 ms - -\n","timestamp":"16-10-2023 05:13:15"}
+{"level":"info","message":"GET /favicon.png 304 0.638 ms - -\n","timestamp":"16-10-2023 05:13:15"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 05:29:16"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 05:29:16"}
+{"level":"info","message":"GET / 304 15.486 ms - -\n","timestamp":"16-10-2023 05:29:22"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 05:32:00"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 05:32:00"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.a8d70c3d212623efa324.hot-update.json","timestamp":"16-10-2023 05:32:03"}
+{"level":"info","message":"GET /main.a8d70c3d212623efa324.hot-update.json 404 15.311 ms - 2092\n","timestamp":"16-10-2023 05:32:03"}
+{"level":"info","message":"GET / 200 26.736 ms - 1201\n","timestamp":"16-10-2023 05:32:03"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.a8d70c3d212623efa324.hot-update.json","timestamp":"16-10-2023 05:32:04"}
+{"level":"info","message":"GET /main.a8d70c3d212623efa324.hot-update.json 404 2.218 ms - 2092\n","timestamp":"16-10-2023 05:32:04"}
+{"level":"info","message":"GET /favicon.png 304 1.184 ms - -\n","timestamp":"16-10-2023 05:32:06"}
+{"level":"info","message":"GET / 304 3.841 ms - -\n","timestamp":"16-10-2023 05:32:06"}
+{"level":"info","message":"GET / 200 4.049 ms - 1200\n","timestamp":"16-10-2023 05:33:13"}
+{"level":"info","message":"GET /favicon.png 304 0.484 ms - -\n","timestamp":"16-10-2023 05:33:14"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 05:34:53"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 05:34:53"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.f6b4226579824e07b4e6.hot-update.json","timestamp":"16-10-2023 05:34:56"}
+{"level":"info","message":"GET /main.f6b4226579824e07b4e6.hot-update.json 404 14.611 ms - 2092\n","timestamp":"16-10-2023 05:34:56"}
+{"level":"info","message":"GET / 200 37.591 ms - 1193\n","timestamp":"16-10-2023 05:34:57"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.f6b4226579824e07b4e6.hot-update.json","timestamp":"16-10-2023 05:34:57"}
+{"level":"info","message":"GET /main.f6b4226579824e07b4e6.hot-update.json 404 2.781 ms - 2092\n","timestamp":"16-10-2023 05:34:57"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.f6b4226579824e07b4e6.hot-update.json","timestamp":"16-10-2023 05:34:57"}
+{"level":"info","message":"GET /main.f6b4226579824e07b4e6.hot-update.json 404 1.950 ms - 2092\n","timestamp":"16-10-2023 05:34:57"}
+{"level":"info","message":"GET / 304 4.670 ms - -\n","timestamp":"16-10-2023 05:34:57"}
+{"level":"info","message":"GET / 200 4.066 ms - 1193\n","timestamp":"16-10-2023 05:34:57"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.f6b4226579824e07b4e6.hot-update.json","timestamp":"16-10-2023 05:34:59"}
+{"level":"info","message":"GET /main.f6b4226579824e07b4e6.hot-update.json 404 6.596 ms - 2092\n","timestamp":"16-10-2023 05:34:59"}
+{"level":"info","message":"GET /favicon.png 304 1.185 ms - -\n","timestamp":"16-10-2023 05:35:00"}
+{"level":"info","message":"GET /favicon.png 304 0.647 ms - -\n","timestamp":"16-10-2023 05:35:00"}
+{"level":"info","message":"GET / 304 3.336 ms - -\n","timestamp":"16-10-2023 05:35:00"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 05:40:57"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 05:40:57"}
+{"level":"info","message":"GET / 304 28.814 ms - -\n","timestamp":"16-10-2023 05:41:03"}

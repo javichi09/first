@@ -270,3 +270,43 @@
 {"level":"info","message":"GET /favicon.png 304 0.987 ms - -\n","timestamp":"16-10-2023 05:55:20"}
 {"level":"info","message":"GET /favicon.png 304 0.705 ms - -\n","timestamp":"16-10-2023 05:55:21"}
 {"level":"info","message":"GET /favicon.png 304 0.429 ms - -\n","timestamp":"16-10-2023 05:55:22"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"16-10-2023 06:01:17"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"16-10-2023 06:01:17"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.214737a9606ba5454667.hot-update.json","timestamp":"16-10-2023 06:01:22"}
+{"level":"info","message":"GET /main.214737a9606ba5454667.hot-update.json 404 7.849 ms - 2092\n","timestamp":"16-10-2023 06:01:22"}
+{"level":"info","message":"GET / 304 27.477 ms - -\n","timestamp":"16-10-2023 06:01:22"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.214737a9606ba5454667.hot-update.json","timestamp":"16-10-2023 06:01:23"}
+{"level":"info","message":"GET /main.214737a9606ba5454667.hot-update.json 404 2.200 ms - 2092\n","timestamp":"16-10-2023 06:01:23"}
+{"level":"info","message":"GET /favicon.png 304 0.901 ms - -\n","timestamp":"16-10-2023 06:01:24"}
+{"level":"info","message":"GET / 304 4.015 ms - -\n","timestamp":"16-10-2023 06:01:25"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 04:46:47"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 04:46:47"}
+{"level":"info","message":"GET / 200 37.593 ms - 1168\n","timestamp":"17-10-2023 04:46:52"}
+{"level":"info","message":"404 Pagina no encontrada GET /favicon.ico","timestamp":"17-10-2023 04:47:02"}
+{"level":"info","message":"GET /favicon.ico 404 3.225 ms - 2092\n","timestamp":"17-10-2023 04:47:02"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 05:05:21"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 05:05:21"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.be412be96cda3299fd5e.hot-update.json","timestamp":"17-10-2023 05:05:26"}
+{"level":"info","message":"GET /main.be412be96cda3299fd5e.hot-update.json 404 4.972 ms - 2092\n","timestamp":"17-10-2023 05:05:26"}
+{"level":"info","message":"GET / 200 24.975 ms - 732\n","timestamp":"17-10-2023 05:05:26"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.be412be96cda3299fd5e.hot-update.json","timestamp":"17-10-2023 05:05:26"}
+{"level":"info","message":"GET /main.be412be96cda3299fd5e.hot-update.json 404 1.519 ms - 2092\n","timestamp":"17-10-2023 05:05:26"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.be412be96cda3299fd5e.hot-update.json","timestamp":"17-10-2023 05:05:26"}
+{"level":"info","message":"GET /main.be412be96cda3299fd5e.hot-update.json 404 1.322 ms - 2092\n","timestamp":"17-10-2023 05:05:26"}
+{"level":"info","message":"GET / 304 5.634 ms - -\n","timestamp":"17-10-2023 05:05:28"}
+{"level":"info","message":"GET / 200 5.776 ms - 731\n","timestamp":"17-10-2023 05:08:27"}
+{"level":"info","message":"GET / 200 5.976 ms - 732\n","timestamp":"17-10-2023 05:08:30"}
+{"level":"info","message":"GET /favicon.png 304 1.084 ms - -\n","timestamp":"17-10-2023 05:08:31"}
+{"level":"info","message":"GET / 200 4.884 ms - 731\n","timestamp":"17-10-2023 05:08:33"}
+{"level":"info","message":"GET /favicon.png 304 0.517 ms - -\n","timestamp":"17-10-2023 05:08:34"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 05:44:52"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 05:44:52"}
+{"level":"info","message":"GET / 200 18.502 ms - 731\n","timestamp":"17-10-2023 05:44:58"}
+{"level":"info","message":"GET /favicon.png 304 1.292 ms - -\n","timestamp":"17-10-2023 05:44:59"}
+{"level":"info","message":"GET / 200 12.845 ms - 732\n","timestamp":"17-10-2023 05:45:58"}
+{"level":"info","message":"GET / 304 5.017 ms - -\n","timestamp":"17-10-2023 05:46:02"}
+{"level":"info","message":"GET /favicon.png 304 0.325 ms - -\n","timestamp":"17-10-2023 05:46:03"}
+{"level":"info","message":"GET / 304 6.510 ms - -\n","timestamp":"17-10-2023 05:46:06"}
+{"level":"info","message":"GET /favicon.png 304 0.328 ms - -\n","timestamp":"17-10-2023 05:46:07"}
+{"level":"info","message":"GET / 200 4.603 ms - 732\n","timestamp":"17-10-2023 05:46:11"}
+{"level":"info","message":"GET /favicon.png 304 0.404 ms - -\n","timestamp":"17-10-2023 05:46:12"}

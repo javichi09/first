@@ -310,3 +310,45 @@
 {"level":"info","message":"GET /favicon.png 304 0.328 ms - -\n","timestamp":"17-10-2023 05:46:07"}
 {"level":"info","message":"GET / 200 4.603 ms - 732\n","timestamp":"17-10-2023 05:46:11"}
 {"level":"info","message":"GET /favicon.png 304 0.404 ms - -\n","timestamp":"17-10-2023 05:46:12"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 06:00:51"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 06:00:51"}
+{"level":"info","message":"GET / 200 19.144 ms - 753\n","timestamp":"17-10-2023 06:00:57"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 06:07:31"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 06:07:31"}
+{"level":"info","message":"GET / 200 18.563 ms - 1170\n","timestamp":"17-10-2023 06:07:37"}
+{"level":"info","message":"GET /favicon.png 304 1.120 ms - -\n","timestamp":"17-10-2023 06:07:38"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 06:26:49"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 06:26:49"}
+{"level":"info","message":"GET / 200 35.546 ms - 1500\n","timestamp":"17-10-2023 06:26:54"}
+{"level":"info","message":"404 Pagina no encontrada GET /images/projnotes-logo.jpeg","timestamp":"17-10-2023 06:26:55"}
+{"level":"info","message":"GET /images/projnotes-logo.jpeg 404 9.446 ms - 2092\n","timestamp":"17-10-2023 06:26:55"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 06:29:11"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 06:29:11"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.b6c1682eb5921d596993.hot-update.json","timestamp":"17-10-2023 06:29:13"}
+{"level":"info","message":"GET /main.b6c1682eb5921d596993.hot-update.json 404 4.949 ms - 2092\n","timestamp":"17-10-2023 06:29:13"}
+{"level":"info","message":"GET / 200 17.850 ms - 1565\n","timestamp":"17-10-2023 06:29:14"}
+{"level":"info","message":"GET / 200 4.535 ms - 1565\n","timestamp":"17-10-2023 06:29:14"}
+{"level":"info","message":"404 Pagina no encontrada GET /images/projnotes-logo.jpeg","timestamp":"17-10-2023 06:29:14"}
+{"level":"info","message":"GET /images/projnotes-logo.jpeg 404 1.479 ms - 2092\n","timestamp":"17-10-2023 06:29:14"}
+{"level":"info","message":"404 Pagina no encontrada GET /images/projnotes-logo.jpeg","timestamp":"17-10-2023 06:29:15"}
+{"level":"info","message":"GET /images/projnotes-logo.jpeg 404 2.104 ms - 2092\n","timestamp":"17-10-2023 06:29:15"}
+{"level":"info","message":"GET /favicon.png 304 1.089 ms - -\n","timestamp":"17-10-2023 06:29:15"}
+{"level":"info","message":"GET /favicon.png 304 0.400 ms - -\n","timestamp":"17-10-2023 06:29:17"}
+{"level":"info","message":"GET / 200 3.760 ms - 1564\n","timestamp":"17-10-2023 06:29:17"}
+{"level":"info","message":"404 Pagina no encontrada GET /images/projnotes-logo.jpeg","timestamp":"17-10-2023 06:29:18"}
+{"level":"info","message":"GET /images/projnotes-logo.jpeg 404 1.354 ms - 2092\n","timestamp":"17-10-2023 06:29:18"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 06:30:23"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 06:30:23"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.78177fda92a55203854f.hot-update.json","timestamp":"17-10-2023 06:30:27"}
+{"level":"info","message":"GET /main.78177fda92a55203854f.hot-update.json 404 4.569 ms - 2092\n","timestamp":"17-10-2023 06:30:27"}
+{"level":"info","message":"GET / 200 29.669 ms - 1560\n","timestamp":"17-10-2023 06:30:28"}
+{"level":"info","message":"GET / 200 4.993 ms - 1560\n","timestamp":"17-10-2023 06:30:28"}
+{"level":"info","message":"404 Pagina no encontrada GET /main.78177fda92a55203854f.hot-update.json","timestamp":"17-10-2023 06:30:28"}
+{"level":"info","message":"GET /main.78177fda92a55203854f.hot-update.json 404 3.918 ms - 2092\n","timestamp":"17-10-2023 06:30:28"}
+{"level":"info","message":"GET /images/ProjNotes.jpeg 200 2.223 ms - 72561\n","timestamp":"17-10-2023 06:30:28"}
+{"level":"info","message":"GET /images/ProjNotes.jpeg 304 0.967 ms - -\n","timestamp":"17-10-2023 06:30:28"}
+{"level":"info","message":"GET / 200 5.471 ms - 1559\n","timestamp":"17-10-2023 06:30:28"}
+{"level":"info","message":"GET /images/ProjNotes.jpeg 304 0.445 ms - -\n","timestamp":"17-10-2023 06:30:28"}
+{"level":"info","message":"GET /favicon.png 304 0.582 ms - -\n","timestamp":"17-10-2023 06:30:29"}
+{"level":"info","message":"GET /favicon.png 304 0.453 ms - -\n","timestamp":"17-10-2023 06:30:30"}
+{"level":"info","message":"GET /favicon.png 304 0.514 ms - -\n","timestamp":"17-10-2023 06:30:30"}

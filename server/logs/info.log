@@ -352,3 +352,5 @@
 {"level":"info","message":"GET /favicon.png 304 0.582 ms - -\n","timestamp":"17-10-2023 06:30:29"}
 {"level":"info","message":"GET /favicon.png 304 0.453 ms - -\n","timestamp":"17-10-2023 06:30:30"}
 {"level":"info","message":"GET /favicon.png 304 0.514 ms - -\n","timestamp":"17-10-2023 06:30:30"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 06:40:51"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 06:40:51"}

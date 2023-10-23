@@ -354,3 +354,45 @@
 {"level":"info","message":"GET /favicon.png 304 0.514 ms - -\n","timestamp":"17-10-2023 06:30:30"}
 {"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 06:40:51"}
 {"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 06:40:51"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 06:55:10"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 06:55:10"}
+{"level":"info","message":"GET / 200 71.372 ms - 4705\n","timestamp":"17-10-2023 06:55:13"}
+{"level":"info","message":"404 Pagina no encontrada GET /user/login","timestamp":"17-10-2023 06:56:27"}
+{"level":"info","message":"GET /user/login 404 4.629 ms - 2171\n","timestamp":"17-10-2023 06:56:27"}
+{"level":"info","message":"GET / 200 7.958 ms - 4706\n","timestamp":"17-10-2023 06:57:02"}
+{"level":"info","message":"404 Pagina no encontrada GET /about","timestamp":"17-10-2023 06:57:06"}
+{"level":"info","message":"GET /about 404 1.672 ms - 2171\n","timestamp":"17-10-2023 06:57:06"}
+{"level":"info","message":"404 Pagina no encontrada GET /projects","timestamp":"17-10-2023 06:57:11"}
+{"level":"info","message":"GET /projects 404 1.732 ms - 2171\n","timestamp":"17-10-2023 06:57:11"}
+{"level":"info","message":"GET / 200 4.952 ms - 4705\n","timestamp":"17-10-2023 06:57:15"}
+{"level":"info","message":"GET / 304 6.573 ms - -\n","timestamp":"17-10-2023 06:57:17"}
+{"level":"info","message":"GET / 200 4.714 ms - 4706\n","timestamp":"17-10-2023 06:57:19"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 06:58:15"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 06:58:15"}
+{"level":"info","message":"GET / 304 20.818 ms - -\n","timestamp":"17-10-2023 06:58:19"}
+{"level":"info","message":"GET / 200 5.663 ms - 4706\n","timestamp":"17-10-2023 06:58:27"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 16:45:23"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 16:45:23"}
+{"level":"info","message":"GET / 304 46.270 ms - -\n","timestamp":"17-10-2023 16:45:28"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"17-10-2023 17:12:56"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"17-10-2023 17:12:56"}
+{"level":"info","message":"GET / 304 18.877 ms - -\n","timestamp":"17-10-2023 17:13:00"}
+{"level":"info","message":"GET /favicon.png 304 0.938 ms - -\n","timestamp":"17-10-2023 17:13:02"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"23-10-2023 15:16:51"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"23-10-2023 15:16:51"}
+{"level":"info","message":"GET / 200 25.193 ms - 4705\n","timestamp":"23-10-2023 15:16:55"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"23-10-2023 15:52:51"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"23-10-2023 15:52:51"}
+{"level":"info","message":"GET / 304 19.865 ms - -\n","timestamp":"23-10-2023 15:52:57"}
+{"level":"info","message":"GET /favicon.png 200 5.041 ms - 1747\n","timestamp":"23-10-2023 15:53:02"}
+{"level":"info","message":"GET /user/logout 200 1.135 ms - 45\n","timestamp":"23-10-2023 15:53:09"}
+{"level":"info","message":"404 Pagina no encontrada GET /favicon.ico","timestamp":"23-10-2023 15:53:10"}
+{"level":"info","message":"GET /favicon.ico 404 3.324 ms - 2092\n","timestamp":"23-10-2023 15:53:10"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"23-10-2023 15:55:09"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"23-10-2023 15:55:09"}
+{"level":"info","message":"GET / 200 20.385 ms - 4706\n","timestamp":"23-10-2023 15:55:17"}
+{"level":"info","message":"GET /user/logout 304 0.874 ms - -\n","timestamp":"23-10-2023 15:55:33"}
+{"level":"info","message":"GET / 304 6.811 ms - -\n","timestamp":"23-10-2023 15:55:54"}
+{"level":"info","message":"GET /favicon.png 304 0.893 ms - -\n","timestamp":"23-10-2023 15:55:56"}
+{"level":"info","message":"GET / 200 4.473 ms - 4706\n","timestamp":"23-10-2023 15:56:07"}
+{"level":"info","message":"GET /favicon.png 304 0.400 ms - -\n","timestamp":"23-10-2023 15:56:11"}

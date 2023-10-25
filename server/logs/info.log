@@ -396,3 +396,7 @@
 {"level":"info","message":"GET /favicon.png 304 0.893 ms - -\n","timestamp":"23-10-2023 15:55:56"}
 {"level":"info","message":"GET / 200 4.473 ms - 4706\n","timestamp":"23-10-2023 15:56:07"}
 {"level":"info","message":"GET /favicon.png 304 0.400 ms - -\n","timestamp":"23-10-2023 15:56:11"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"25-10-2023 15:50:19"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"25-10-2023 15:50:19"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"25-10-2023 15:53:12"}
+{"level":"info","message":"⭐⭐ Listening on undefined:3001 ⭐⭐","timestamp":"25-10-2023 15:53:12"}

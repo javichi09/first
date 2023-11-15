@@ -1,34 +1,25 @@
-var express = require('express');
-var router = express.Router();
+import express from 'express';
 
-//FUNCION DE ALEATORIA DE IMAGENES 
-function selecctionImagen(image){
- var randomIndex = Math.floor(Math.random() * image.length);
-  return image[randomIndex];
-}
+const { Router } = express;
 
-//imagenes
-var image = ['https://www.gamadero.tecnm.mx/assets/files/main/img/fondoblancoitgam.png', 
-'https://www.gamadero.tecnm.mx/images/Anuncios/2023/oferta%20educativa%202023_6carreras%20cuadro.jpg', 
-'https://www.gamadero.tecnm.mx/ideologia/ideologia.png'];
+const router = Router();
 
-// GET /
-router.get('/', function(req, res, next) {
-res.render('index', { title: 'Pronode', author:"Espinoza Montoya Aylen Azucena" });
+/* GET home page. */
+router.get('/', (req, res) => {
+  const iconSet = ['⭐', '🤖', '🍉'];
+  const icon = iconSet[Math.floor(Math.random() * 3)];
+  res.render('index', { title: 'Express with babel and HRM', icon });
 });
 
-router.get('/about/tec', function (req, res, next) {
-  res.render('tec');
+router.get('/author', (req, res) => {
+  // Creating a View-Model
+  const author = {
+    name: 'Luis Alfonso',
+    lastname: 'Guzman Jimenez',
+    job: 'Expendio bimbo',
+  };
+  // Sending the view-model to be rendered by a View
+  res.render('author', author);
 });
 
-router.get('/about/api/tec', function(req, res, next) {
-  var aleoImage = selecctionImagen(image);
-  res.render('api',{ 
-    title: "ITGAM ALCOHENES PEREGRINOS", 
-    Mission:"Formar con responsabilidad y excelencia,a profesionistas capaces de enfrentar y resolver los retos que se presentan en el ámbito nacional e internacional", 
-    Values: "Respeto, Liderazgo, Responsabilidad, Perseverancia.",
-    imagenes: aleoImage
-});
-});
-
-module.exports = router;
+export default router;

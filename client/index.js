@@ -1,25 +1,14 @@
-console.log("Webpack Working!!! 📦");
+// cargando los estilos
+/* eslint-disable no-console */
+import './styles/style.css';
+/* eslint-disable */
+// Importandoe Estilos de Materialize CSS
+import 'materialize-css/dist/css/materialize.css';
+// Importando scripts de Materialize
+import 'materialize-css/dist/js/materialize';
+/* eslint-enable */
 
-// Codigo ES6
-// Default Parameters
-let show = (msg="No message given") => {
-  console.log(msg)
-}
-show();
+// Inicializando Scripts de Materialize para interactividad
+M.AutoInit();
 
-// Async Await
-function resolveAfter2Seconds() {
-  return new Promise(resolve => {
-    setTimeout(() => {
-      resolve('resolved');
-    }, 2000)
-  });
-}
-
-async function asyncCall() {
-  console.log("Calling");
-  const result = await resolveAfter2Seconds();
-  console.log(result);
-}
-
-asyncCall();
+console.log('Webpack Working Middleware!!! 📦');
